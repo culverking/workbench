@@ -12,13 +12,13 @@ This repository serves as the foundation for the Workbench suite, housing shared
 This suite is designed to support the workflows that studios, agencies, and production teams rely on every day.
 
 ### Current Modules
-On-screen minimum size testing for browsers and apps
+#### On-screen minimum size testing for browsers and apps
 A browser‑accurate rendering environment for validating logo legibility across densities, backgrounds, and usage contexts. Built for teams who need consistent, production‑safe minimum‑size recommendations without guesswork.
 More modules will be added as the suite expands.
 
 ### Roadmap
 Workbench will grow into a multi‑tool environment, including modules for:
-- Initial directory structuring and updating
+- Initial directory structuring, creation, and updating
 - Color exploration, accessibility, and validation
 - Adobe Illustrator integration and workflows
 
